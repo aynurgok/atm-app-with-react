@@ -1,0 +1,22 @@
+.balance-container {
+    width: 300px;
+    height: 100px;
+    border:1px solid rosybrown;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    margin-top:20px;
+    color:#000000;
+}
+.balance-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+.amount {
+    padding-top:10px;
+    font-size: 32px;
+    font-weight: 700;
+}
